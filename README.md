@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Wilgyn1
-- 👀 I’m interested in desemvolvimento , programação , tecnologia.
+- 👀 I’m interested in desenvolvimento , programação , tecnologia.
 - 🌱 I’m currently learning  HTML. CSS. JAVASCRIPT. GIT . entre outros.
 - 💞️ I’m looking to collaborate on . no que for nescessário e estiver no meu alcance.
 - 📫 How to reach me ...wiliamcorrea@hotmail.com
